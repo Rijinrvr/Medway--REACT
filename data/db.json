@@ -1,0 +1,40 @@
+{
+  "medicines": [
+    {
+      "name": "Alprazol Capsules",
+      "company": "Pharmaceutical Ltd",
+      "expiry_date": "2025-05-05",
+      "id": "855"
+    },
+    {
+      "name": "Paracetamol",
+      "company": "Cipla",
+      "expiry_date": "2022-05-25",
+      "id": "856"
+    },
+    {
+      "id": "857",
+      "name": "Dolo",
+      "company": "cipola",
+      "expiry_date": "2025-05-25"
+    },
+    {
+      "id": "858",
+      "name": "Glucose",
+      "company": "Aristo Pharma09",
+      "expiry_date": "2026-05-25"
+    },
+    {
+      "id": "861",
+      "name": "Glucose",
+      "company": "Aristo Pharma..01",
+      "expiry_date": "2026-05-25"
+    },
+    {
+      "id": "887",
+      "name": "Acetaminophen",
+      "company": "McNeil Consumer Healthcare",
+      "expiry_date": "2022-05-20"
+    }
+  ]
+}
